@@ -5,7 +5,7 @@
     "EDUCATION": "Ryan has his BS in Sport and Exercise Science from University of Northern Colorado",
     "WORK EXPERIENCE": "Ryan has been a teacher for 10 years. 7 of them as a PE Teacher, 2 as a Tech Teacher, and this year he's been working as an Instructional Coach in Blended Learning",
     "SKILLS": "Ryan is an expert in Blended Learning and Digital Learning Content.\nHe's worked extensively with Dreambox and Achieve3000.\nHe's also proficient in OS X, Google Apps for Education, Microsoft Office, and Windows",
-    "EMPLOYMENT STATUS":"Ryan is currently employed as a Blended Learning Coach. \nYou can still check out his resume if you want! %[Resume](postback:RESUME)",
+    "EMPLOYMENT STATUS":"Ryan is currently employed as a Blended Learning Coach. \nYou can still check out his resume if you want! %[Résumé](postback:RESUME)",
     "WHO ARE YOU": "I'm RyanBot, I share about Ryan, but you need to use keywords like HELLO",
     "WHO ARE YOU?": "I'm RyanBot, I share about Ryan, but you need to use keywords like HELLO",
     "I LOVE YOU": "Awh, shucks! I love you too!",
@@ -23,6 +23,7 @@
     "INTERESTS": "Ryan has a lot of interests, like: Mountain Biking, Off Roading, Technology, Dogs, and, of course, coffee!",
     "BLOG": "Ryan sometimes blogs like a hacker here: http://rfitz9.github.io",
     "RESUME":"You can view my most up-to-date resume on Linkedin: https://www.linkedin.com/in/ryan-fitzpatrick-17891520",
+    "HELP": "You need help, right? I communicate using keywords.\nHere's a list of keywords that I know 
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, RyanBot is back."
 }
