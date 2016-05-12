@@ -11,6 +11,7 @@
     "CRAP": "💩",
     "SHIT": "💩",
     "TELL A JOKE": "Knock, Knock %[Who's There](postback:WHO'S_THERE)",
+    "TELL ME A JOKE": "Knock, Knock %[Who's There](postback:WHO'S_THERE)",
     "WHO'S THERE": "Dozen %[Dozen Who?](postback:DOZEN_WHO?)",
     "DOZEN WHO?": "Dozen anybody want to let me in?\n 😂",
     "CONNECT ME": "",
