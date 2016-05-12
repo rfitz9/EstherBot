@@ -10,8 +10,8 @@
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CRAP": "💩",
     "SHIT": "💩",
-    "TELL A JOKE": "Knock, Knock %[Who's There](postback: WHO'S_THERE)",
-    "WHO'S THERE": "Dozen %[Dozen Who?](postback: DOZEN_WHO?)",
+    "TELL A JOKE": "Knock, Knock %[Who's There](postback:WHO'S_THERE)",
+    "WHO'S THERE": "Dozen %[Dozen Who?](postback:DOZEN_WHO?)",
     "DOZEN WHO?": "Dozen anybody want to let me in?\n 😂",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, RyanBot is back."
