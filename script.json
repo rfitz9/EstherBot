@@ -20,8 +20,8 @@
     "FUCK YOU":"Well, that's pretty rude!",
     "FUCK YOU!":"Well, that's pretty rude!",
     "MORE": "What else would you like to know about Ryan? %[Interests](postback:GO_TO_INTERESTS) %[Ryan's Blog](postback:GO_TO_BLOG)",
-    "GO TO INTERESTS":"Ryan has a lot of interests, like: Mountain Biking, Off Roading, Technology, Dogs, and, of course, coffee!",
-    "GO TO BLOG":"Ryan sometimes blogs like a hacker here: http://rfitz9.github.io",
+    "GO TO INTERESTS": "Ryan has a lot of interests, like: Mountain Biking, Off Roading, Technology, Dogs, and, of course, coffee!",
+    "GO TO BLOG": "Ryan sometimes blogs like a hacker here: http://rfitz9.github.io",
     "RESUME":"You can view my most up-to-date resume on Linkedin: https://www.linkedin.com/in/ryan-fitzpatrick-17891520",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, RyanBot is back."
