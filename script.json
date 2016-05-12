@@ -1,6 +1,6 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Ryan, a Blended Learning Coach from Colorado.\n![esther](https://raw.githubusercontent.com/rfitz9/EstherBot/master/img/IMG_0875.JPG)\nWant to know more about Ryan? %[Learn about Ryan](postback:learn_about_Ryan)",
-    "HELLO": "Hey, I'm RyanBot \nI can tell you all about Ryan. Would you like to learn more about Ryan? %[Learn More About Ryan](postback:learn_about_Ryan)",
+    "BOT": "Hi there!\nI’m the personal bot of Ryan, a Blended Learning Coach from Colorado.\n![esther](https://raw.githubusercontent.com/rfitz9/EstherBot/master/img/IMG_0875.JPG)\nWant to know more about Ryan? %[Learn about Ryan](postback:learn_about_ryan)",
+    "HELLO": "Hey, I'm RyanBot \nI can tell you all about Ryan. Would you like to learn more about Ryan? %[Learn More About Ryan](postback:learn_about_ryan)",
     "LEARN ABOUT RYAN": "Ryan is a middle school Blended Learning Coach at Weld County School District 6 in Greeley Colorado. \nHe's been in education for 10 years \n7 years as a P.E. Teacher, 2 as a Technology Teacher, and 1 as an Instructional Coach for Blended Learning",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
