@@ -1,7 +1,12 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Ryan, a Blended Learning Coach from Colorado.\n![esther](https://raw.githubusercontent.com/rfitz9/EstherBot/master/img/IMG_0875.JPG)\nWant to know more about Ryan? %[Learn about Ryan](postback:LEARN_ABOUT_RYAN)",
     "HELLO": "Hey, I'm RyanBot \nI can tell you all about Ryan. Would you like to learn more about Ryan? %[Learn About Ryan](postback:LEARN_ABOUT_RYAN)",
-    "LEARN ABOUT RYAN": "Ryan is a middle school Blended Learning Coach at Weld County School District 6 in Greeley Colorado. \nHe's been in education for 10 years \n7 years as a P.E. Teacher, 2 as a Technology Teacher, and 1 as an Instructional Coach for Blended Learning",
+    "LEARN ABOUT RYAN": "Great! I can tell you a lot about Ryan. What would you like to know? %[Education](postback: EDUCATION) %[Work Experience](postback: WORK EXPERIENCE) %[Skills](postback: SKILLS)",
+    "EDUCATION": "Ryan has his BS in Sport and Exercise Science from University of Northern Colorado",
+    "WORK EXPERIENCE": "Ryan has been a teacher for 10 years. 7 of them as a PE Teacher, 2 as a Tech Teacher, and this year he's been working as an Instructional Coach in Blended Learning",
+    "SKILLS": "Ryan is an expert in Blended Learning and Digital Learning Content.\nHe's worked extensively with Dreambox and Achieve3000.\nHe's also proficient in OS X, Google Apps for Education, Microsoft Office, and Windows",
+    "WHO ARE YOU": "I'm a bot, but Ryan is a human",
+    "WHO ARE YOU?": "I'm a bot, but Ryan is a human"
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CRAP": "💩",
     "SHIT": "💩",
