@@ -19,7 +19,7 @@
     "FUCK!":"Well, that's pretty rude!",
     "FUCK YOU":"Well, that's pretty rude!",
     "FUCK YOU!":"Well, that's pretty rude!",
-    "MORE":"What else would you like to know? %[Picture](postback:SHOW_A_PICTURE) %[Ryan's Blog](postback:GO_TO_BLOG) %[Interests](postback:GO_TO_INTERESTS)",
+    "MORE":"What else would you like to know? %[Picture](postback:SHOW_A_PICTURE) %[Blog](postback:GO_TO_BLOG) %[Interests](postback:GO_TO_INTERESTS)",
     "SHOW A PICTURE": "![ryan](https://raw.githubusercontent.com/rfitz9/EstherBot/master/img/IMG_0875.JPG)",
     "GO TO BLOG": "Ryan's Blog: http://rfitz9.github.io",
     "GO TO INTERESTS": "Here are some of Ryan's interests \nTechnology ![macbook](https://static.pexels.com/photos/7101/wood-coffee-iphone-notebook.jpg) Mountain Biking ![mountain bike](https://pixabay.com/static/uploads/photo/2016/03/20/10/04/mountain-biking-1268276_960_720.jpg) \nOff Roading ![Razr](https://c1.staticflickr.com/3/2071/2053655547_19db2bbbf4_z.jpg?zz=1) Dogs ![Golden Retreiver](https://upload.wikimedia.org/wikipedia/commons/4/4c/Callie2009.JPG) \nAnd, of course, Coffee! ![Coffee](https://c2.staticflickr.com/4/3814/13365585734_df31b37d2c_b.jpg)",
