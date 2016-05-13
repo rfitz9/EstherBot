@@ -22,10 +22,10 @@
     "FUCK!":"Well, that's pretty rude!",
     "FUCK YOU":"Well, that's pretty rude!",
     "FUCK YOU!":"Well, that's pretty rude!",
-    "MORE": "What else would you like to know about Ryan? %[Interests](postback:INTERESTS) %[His Blog](postback:BLOG)",
+    "MORE": "What else would you like to know about Ryan? %[Interests](postback:INTERESTS) %[His Blog](http://rfitz9.github.io)",
     "INTERESTS": "Ryan has a lot of interests, like: Mountain Biking, Off Roading, Technology, Dogs, and, of course, coffee!",
-    "BLOG": "Ryan sometimes blogs like a hacker here: http://rfitz9.github.io",
-    "RÉSUMÉ":"You can view my most up-to-date résumé on Linkedin: https://www.linkedin.com/in/ryan-fitzpatrick-17891520",
+    "BLOG": "Ryan sometimes blogs like a hacker here: %[Ryan's Blog](http://rfitz9.github.io)",
+    "RÉSUMÉ":"You can view my most up-to-date résumé on Linkedin %[Ryan's Linkedin](https://www.linkedin.com/in/ryan-fitzpatrick-17891520)",
     "HELP": "You need help, right? I communicate using keywords.\nHere's a list of keywords that I know https://goo.gl/57ITJg",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, RyanBot is back."
