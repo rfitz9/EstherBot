@@ -1,6 +1,9 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Ryan, a Blended Learning Coach from Colorado.\n![esther](https://raw.githubusercontent.com/rfitz9/EstherBot/master/img/IMG_0875.JPG)\nWant to know more about Ryan? %[Learn about Ryan](postback:LEARN_ABOUT_RYAN)",
     "HELLO": "Hey, I'm RyanBot \nI can tell you all about Ryan. Would you like to learn more about Ryan? %[Learn About Ryan](postback:LEARN_ABOUT_RYAN)",
+    "HI": "Hey, I'm RyanBot \nI can tell you all about Ryan. Would you like to learn more about Ryan? %[Learn About Ryan](postback:LEARN_ABOUT_RYAN)",
+    "HI!":"Hey, I'm RyanBot \nI can tell you all about Ryan. Would you like to learn more about Ryan? %[Learn About Ryan](postback:LEARN_ABOUT_RYAN)",
+    "HELLO!":"Hey, I'm RyanBot \nI can tell you all about Ryan. Would you like to learn more about Ryan? %[Learn About Ryan](postback:LEARN_ABOUT_RYAN)",
     "LEARN ABOUT RYAN": "Great! I can tell you a lot about Ryan. What would you like to know? %[Education](postback:EDUCATION) %[Work Experience](postback:WORK_EXPERIENCE) %[Skills](postback:SKILLS) \n%[Employment Status](postback:EMPLOYMENT_STATUS)",
     "EDUCATION": "Ryan has his BS in Sport and Exercise Science from University of Northern Colorado",
     "WORK EXPERIENCE": "Ryan has been a teacher for 10 years. 7 of them as a PE Teacher, 2 as a Tech Teacher, and this year he's been working as an Instructional Coach in Blended Learning",
